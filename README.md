@@ -8,7 +8,7 @@ Currently all it does is read a text file which is supplied by user input,
 then searches a folder and copies found items to another folder based on user 
 input. I copied the code which reads, searches and copies things from a 
 stack overflow question, so it is not my original code. However i have made a 
-few alterations but these are minor alerations.
+few alterations but these are minor alterations.
 
 The real aim here is to gain a clearer understanding of python and programming
 in general for myself. I plan to play with MATLAB, Pil and other modules in python
