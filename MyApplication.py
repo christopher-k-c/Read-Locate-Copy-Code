@@ -9,22 +9,22 @@ class MyApplication:
         self.master = master
         master.title("Find My File")
         root.geometry('400x400')
-        root.configure(background='#323336')
+        root.configure(background='#3E4149')
         
         
-        self.upload = Button(master, text="Upload File", command=self.UploadAction)
+        self.upload = Button(master, text="Upload File", highlightbackground='#3E4149', command=self.UploadAction)
         self.upload.place(x=20, y=30)
 
-        self.folder = Button(master, text="Select Search Folder", command=self.FolderSelection)
+        self.folder = Button(master, text="Select Search Folder", highlightbackground='#3E4149', command=self.FolderSelection)
         self.folder.place(x=20, y=60)
 
-        self.save_folder = Button(master, text="Select Output Folder", command=self.Save)
+        self.save_folder = Button(master, text="Select Output Folder", highlightbackground='#3E4149', command=self.Save)
         self.save_folder.place(x=20, y=90)
 
-        self.run_script = Button(master, text="Execute Script", command=self.ExecuteScript)
+        self.run_script = Button(master, text="Execute Script", highlightbackground='#3E4149', command=self.ExecuteScript)
         self.run_script.place(x=20, y=120)
 
-        self.close_button = Button(master, text="Quit Process", command=master.quit)
+        self.close_button = Button(master, text="Quit Process", highlightbackground='#3E4149', command=master.quit)
         self.close_button.place(x=20, y=150)
         
 
