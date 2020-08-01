@@ -4,6 +4,9 @@ import tkinter as tk
 from tkinter import filedialog
 from tkinter import *
 
+
+# Lets create a new tab called "exif".
+
 class MyApplication:
     def __init__(self, master):
         self.master = master
