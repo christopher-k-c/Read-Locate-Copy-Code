@@ -18,4 +18,10 @@ and metadata.
 
 ![Image of GUI](https://raw.githubusercontent.com/christopher-k-c/Read-Locate-Copy-Code/master/User%20Interface.png?token=ALTNLNQKUZPO7UETDNHPWXC7MTFOY)
 
+The code was first inspired by the this piece (linked below) that i found on stack-overflow, 
+i have since made alterations but this piece of code was foundational. It helped me get my 
+head around Name space issues, variables declaration and the humble for loop.
+
+https://stackoverflow.com/questions/51528103/python-copying-specific-files-from-a-list-into-a-new-folder
+
 
