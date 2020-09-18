@@ -20,7 +20,7 @@ and metadata.
 
 The code was first inspired by the this piece (linked below) that i found on stack-overflow, 
 i have since made alterations but this piece of code was foundational. It helped me get my 
-head around Name space issues, variables declaration and the humble for loop.
+head around Name space issues, variable declaration and the humble for loop.
 
 https://stackoverflow.com/questions/51528103/python-copying-specific-files-from-a-list-into-a-new-folder
 
