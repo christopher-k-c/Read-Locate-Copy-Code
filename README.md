@@ -16,6 +16,6 @@ and metadata.
 
 **Here's an example of the bare bones user interface:**
 
-![Image of GUI](https://raw.githubusercontent.com/christopher-k-c/Read-Locate-Copy-Code/master/User%20Interface.png?token=ALTNLNVLGOUAIRVDDZMT5E27MTALQ)
+![Image of GUI](https://raw.githubusercontent.com/christopher-k-c/Read-Locate-Copy-Code/master/User%20Interface.png?token=ALTNLNQKUZPO7UETDNHPWXC7MTFOY)
 
 
