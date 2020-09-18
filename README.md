@@ -14,4 +14,4 @@ in general for myself. I plan to play with PyPy, PSD-Tools, Exiftool Python Modu
 MATLAB, Pil and other modules in python that are related to image processing 
 and metadata.
 
-![Image of GUI](https://raw.githubusercontent.com/christopher-k-c/Read-Locate-Copy-Code/master/User%20Interface.png?token=ALTNLNXIO4S4T5BLU2NREGS7MTAAG)
+![Image of GUI](https://raw.githubusercontent.com/christopher-k-c/Read-Locate-Copy-Code/master/User%20Interface.png?token=ALTNLNVLGOUAIRVDDZMT5E27MTALQ)
